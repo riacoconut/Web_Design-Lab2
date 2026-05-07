@@ -42,6 +42,7 @@
 ## Звіт
 
 URL звіту на Google Drive: https://docs.google.com/document/d/1t9M-Wxmr4Y_OiteNGrq7-ubsJoxdLy1P/edit?usp=sharing&ouid=105575092724098829536&rtpof=true&sd=true
+GitHub Pages: https://riacoconut.github.io/Web_Design-Lab2/
 
 ## Контакт
 
